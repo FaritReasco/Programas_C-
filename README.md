@@ -1,2 +1,2 @@
-# Programas_C-
+# Programas_Cpp
 Repositorio Personal - Uso Libre - Apuntes.
