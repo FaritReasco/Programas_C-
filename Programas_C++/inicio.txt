@@ -1,0 +1,6 @@
+UEDFB
+FECHA: 29/5/2022
+ESTUDIANTE: Reasco Torres Farit Alexander
+CURSO: 2do Bachillerato Tecnico
+			PROGRAMACION EN C++
+El punto de partida habitual para un programador de C++ es una aplicación ¡Hola, mundo! que se ejecuta en la línea de comandos. Eso es lo que creará primero en Visual Studio en este artículo, y luego pasaremos a algo más desafiante: una aplicación de calculadora.
